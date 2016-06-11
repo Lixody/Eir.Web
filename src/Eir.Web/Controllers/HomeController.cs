@@ -13,6 +13,11 @@ namespace Eir.Web.Controllers
             return View();
         }
 
+        public void DoStuff(string asdf)
+        {
+            
+        }
+
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
