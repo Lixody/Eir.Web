@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 31px;
     padding-bottom: 20px;
 }
 
@@ -28,4 +28,26 @@ textarea {
   .carousel-caption {
     display: none
   }
+}
+
+.super-awesome-topbar {
+    margin-bottom: 0;
+}
+.eir-search-area {
+    height: 350px;
+    background-color: #3a9ac4;
+    padding-left: 0;
+    margin: 0;
+}
+.eir-search-field {
+    margin-top: 75px;
+}
+.eir-search-field input {
+    height: 20%;
+    max-width: 100%;
+    font-size: large;
+}
+.eir-search-area label {
+    font-size: large;
+    color: whitesmoke;
 }
